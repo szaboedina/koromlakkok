@@ -1,0 +1,47 @@
+Kedves Diákok!    
+
+ 
+
+Figyelmesen olvasd el a feladattal kapcsolatosan megadott minden információt, csak azután kezdj bele:   
+
+-a feladat megoldására 120 percet kapsz  
+
+-ha készen vagy a feladattal, akkor képernyőmegosztással be kell mutatnod a feladatot, azonnal osztályzásra kerül (, ha nincs készen, akkor következő órán)
+
+-használható a nyomtatott jegyzeted (próbáld meg onnan gépelni, amit csak lehet!)  
+
+-mindenki a neve mellett talál egy témát  
+
+-létre kell hoznia abban a témában egy minimum 5 mezős táblát  
+
+-válassz legalább 4 műveletet az alábbiak közül és valósítsd meg:   
+
+->listázás   
+
+->felvétel   
+
+->törlés   
+
+->teljes módosítás (összes mező módosítása)   
+
+->mezők kapcsolgatása állapotok között(igaz|hamis, látható|rejtett, stb...)   
+
+->keresés   
+
+->rendezés  
+
+ 
+
+FONTOS: A kinézetet nagyon kafára csináld meg, kíváncsi vagyok mennyire megy a BOOTSTRAP4! Erre külön jegyet kapsz!!!
+
+ 
+
+-felhasználható technológiák: HTML, CSS, PHP, SQL  
+
+-nem használható technológiák: JQUERY és AJAX!!!  
+
+-ajánlott programozási szemlélet: OOP
+
+ 
+
+Jó munkát kívánok!
